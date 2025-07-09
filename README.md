@@ -24,16 +24,57 @@ Spring과 Node.js를 모두 활용할 수 있는 풀스택 역량을 키워가�
 
 ## 🚀 주요 프로젝트
 
-### 🟢 [우화 - 공공화장실 정보 플랫폼](https://github.com/EthAnalog/PublicWC)
-> Spring Boot 기반, 후기 게시판 + 즐겨찾기 + 위치 기반 랭킹 제공
+---
 
-### 🟡 [MooDo - 일정 + 감정 기록 앱](https://github.com/EthAnalog/MooDo)
-> Kotlin 기반 Android 앱, To-Do와 무드트래커 통합 UI 제공
+### 🟢 [우화 - 공공화장실 정보 플랫폼](https://github.com/EthAnalog/PublicWC)  
+**공공 및 상업용 화장실 정보를 사용자 중심으로 공유하는 위치기반 웹 플랫폼**
 
-### 🔵 [MeasurePro - 계측 장비 상태 관리](https://github.com/EthAnalog/MeauserPro)
-> React + Vite 기반 웹 대시보드, 장비 상태 시각화 및 보고서용 출력
+- **개발 기간**: 2024.07.21 ~ 2024.08.06 (5인 팀 프로젝트)
+- **담당 역할**: 
+  - 백엔드 (Spring Controller, 서버)
+  - 클라이언트 요청 처리 및 DB 연동 데이터 가공/전달 로직 설계 및 구현
+- **주요 기능**:
+  - 공공 및 상업 화장실 위치 검색 및 목록 조회
+  - 후기 작성, 조회, 수정, 삭제 기능 (게시판 형태)
+  - 즐겨찾기 등록/해제 및 화장실 랭킹 시스템
+  - 화장실 청결도 레벨별 분류 UI
+- **Tech Stack**: Java, Spring Boot, Spring MVC, MySQL, Apache Tomcat, HTML/CSS/JS
+- **성과**: 사용자 UX를 고려한 레벨 구분, 즐겨찾기 기반 랭킹 알고리즘 설계, 팀 내 백엔드 인터페이스 표준화 주도
 
 ---
+
+### 🟡 [MooDo - 일정 + 감정 기록 앱](https://github.com/EthAnalog/MooDo)  
+**To-Do + 무드트래커 통합 캘린더 앱**
+
+- **개발 기간**: 2024.09.03 ~ 2024.09.20 (5인 팀 프로젝트)
+- **담당 역할**:
+  - 코틀린 기반 백엔드 및 DB연동 로직 개발
+  - 카카오 로그인 구현 및 감정 입력 기능 담당
+- **주요 기능**:
+  - 로그인/회원가입 (카카오 API 연동)
+  - 하루 감정 입력 (이모지 및 한줄 일기 형태)
+  - 할 일 등록/수정/삭제 기능
+  - 월별 감정 통계 시각화
+- **Tech Stack**: Kotlin, Android Studio, MySQL, Spring Boot
+- **성과**: SNS 로그인부터 사용자별 감정기록 통계까지 **사용자 개인화 기능 전체 흐름 구현 경험 확보**
+
+---
+
+### 🔵 [MeasurePro - 계측 장비 상태 관리 시스템](https://github.com/EthAnalog/MeauserPro)  
+**계측 장비 상태를 웹에서 실시간 확인하고 시각화하는 통합 관리 시스템**
+
+- **개발 기간**: 2024.07.19 ~ 2024.07.31 (5인 팀 프로젝트)
+- **담당 역할**:
+  - 백엔드 API 설계 및 DB 연동
+  - 장비 상태 등록/수정/삭제, 실시간 정보 전송 로직 개발
+  - QR 기반 정보 연동 및 차트 생성 기능 구현
+- **주요 기능**:
+  - 상태별 SVG 아이콘 표시 (정상, 경고, 오류)
+  - 장비 등록/관리 + QR코드 및 차트 시각화
+  - 인쇄용 보고서 레이아웃 설계 (`print.css`)
+- **Tech Stack**: React, Spring Boot, MySQL, Android Studio, Kotlin
+- **성과**: React 프론트 + Spring 백엔드 간 **통신 구조 설계 경험 확보**, 복합 데이터 시각화 기능 직접 구현
+
 
 ## ✍️ About Me
 
