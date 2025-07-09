@@ -37,7 +37,7 @@ Spring과 Node.js를 모두 활용할 수 있는 풀스택 역량을 키워가�
   - 후기 작성/조회/수정/삭제 기능
 - **Tech Stack**: Java, Spring Boot, Spring MVC, MySQL, Apache Tomcat, HTML/CSS/JS  
 - **성과**: UX를 고려한 레벨 설계, 즐겨찾기 기반 랭킹 로직 직접 구현  
-- **시연 영상**: [YouTube 보기](https://www.youtube.com/watch?v=gzBBIfELHGU)
+- **시연 영상**: [YouTube에서 보기 (새 탭 권장)](https://www.youtube.com/watch?v=gzBBIfELHGU)
 
 ---
 
@@ -54,7 +54,7 @@ Spring과 Node.js를 모두 활용할 수 있는 풀스택 역량을 키워가�
   - 월별 감정 통계 시각화
 - **Tech Stack**: Kotlin, Android Studio, MySQL, Spring Boot  
 - **성과**: 사용자별 감정/일정 통합 기록 흐름을 End-to-End로 구현  
-- **시연 영상**: [YouTube 보기](https://www.youtube.com/watch?v=Zv0ZecJVn1Y)
+- **시연 영상**: [YouTube에서 보기 (새 탭 권장)](https://www.youtube.com/watch?v=Zv0ZecJVn1Y)
 
 ---
 
@@ -73,8 +73,8 @@ Spring과 Node.js를 모두 활용할 수 있는 풀스택 역량을 키워가�
 - **Tech Stack**: React, Spring Boot, MySQL, Android Studio, Kotlin  
 - **성과**: React + Spring 백엔드 통합 구조 설계 및 데이터 시각화 경험 확보  
 - **시연 영상**:  
-  - 앱 버전: [YouTube 보기](https://www.youtube.com/watch?v=agqK6Xw8B5w&t=3s)  
-  - 웹 버전: [YouTube 보기](https://www.youtube.com/watch?v=jfp4H1a5mJA&t=20s)
+  - 앱 버전: [YouTube에서 보기 (새 탭 권장)](https://www.youtube.com/watch?v=agqK6Xw8B5w&t=3s)  
+  - 웹 버전: [YouTube에서 보기 (새 탭 권장)](https://www.youtube.com/watch?v=jfp4H1a5mJA&t=20s)
 
 ---
 
