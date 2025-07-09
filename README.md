@@ -76,7 +76,7 @@ Spring과 Node.js를 모두 활용할 수 있는 풀스택 역량을 키워가�
   - 인쇄용 보고서 레이아웃 설계 (`print.css`)
 - **Tech Stack**: React, Spring Boot, MySQL, Android Studio, Kotlin
 - **성과**: React 프론트 + Spring 백엔드 간 **통신 구조 설계 경험 확보**, 복합 데이터 시각화 기능 직접 구현
-- **영상**: [https://www.youtube.com/watch?v=gzBBIfELHGU](https://www.youtube.com/watch?v=jfp4H1a5mJA) - 웹, https://www.youtube.com/watch?v=agqK6Xw8B5w - 앱
+- **영상**: 앱 - [https://www.youtube.com/watch?v=gzBBIfELHGU](https://www.youtube.com/watch?v=jfp4H1a5mJA), 웹 - https://www.youtube.com/watch?v=agqK6Xw8B5w
 
 
 ## ✍️ About Me
