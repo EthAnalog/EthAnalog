@@ -40,6 +40,7 @@ Spring과 Node.js를 모두 활용할 수 있는 풀스택 역량을 키워가�
   - 화장실 청결도 레벨별 분류 UI
 - **Tech Stack**: Java, Spring Boot, Spring MVC, MySQL, Apache Tomcat, HTML/CSS/JS
 - **성과**: 사용자 UX를 고려한 레벨 구분, 즐겨찾기 기반 랭킹 알고리즘 설계, 팀 내 백엔드 인터페이스 표준화 주도
+- **영상**: https://www.youtube.com/watch?v=gzBBIfELHGU
 
 ---
 
@@ -57,6 +58,7 @@ Spring과 Node.js를 모두 활용할 수 있는 풀스택 역량을 키워가�
   - 월별 감정 통계 시각화
 - **Tech Stack**: Kotlin, Android Studio, MySQL, Spring Boot
 - **성과**: SNS 로그인부터 사용자별 감정기록 통계까지 **사용자 개인화 기능 전체 흐름 구현 경험 확보**
+- **영상**: [https://www.youtube.com/watch?v=gzBBIfELHGU](https://youtu.be/Zv0ZecJVn1Y)
 
 ---
 
@@ -74,6 +76,7 @@ Spring과 Node.js를 모두 활용할 수 있는 풀스택 역량을 키워가�
   - 인쇄용 보고서 레이아웃 설계 (`print.css`)
 - **Tech Stack**: React, Spring Boot, MySQL, Android Studio, Kotlin
 - **성과**: React 프론트 + Spring 백엔드 간 **통신 구조 설계 경험 확보**, 복합 데이터 시각화 기능 직접 구현
+- **영상**: [https://www.youtube.com/watch?v=gzBBIfELHGU](https://www.youtube.com/watch?v=jfp4H1a5mJA) - 웹, https://www.youtube.com/watch?v=agqK6Xw8B5w - 앱
 
 
 ## ✍️ About Me
